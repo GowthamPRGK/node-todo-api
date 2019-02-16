@@ -28,5 +28,6 @@ app.listen(3000,()=>{
     console.log('satrted on prt 23000');
 });
 
+module.exports = {app};
 
 
